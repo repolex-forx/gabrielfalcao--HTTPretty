@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/gabrielfalcao/HTTPretty/commit/f9f012711597634d40066d144a36888b3addcc46",
       "git:hexsha": "f9f012711597634d40066d144a36888b3addcc46",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/gabrielfalcao/HTTPretty/commit/54a113317e41f249e8e0f6b041892b504655e897",
