@@ -1,0 +1,11 @@
+{
+  "org": "gabrielfalcao",
+  "repo": "HTTPretty",
+  "versions": [
+    {
+      "commit": "f9f012711597634d40066d144a36888b3addcc46",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:22:35.700225+00:00"
+    }
+  ]
+}
